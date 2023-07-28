@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ingrid-neileth-florez-garay-31636a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ingrid neileth florez garay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ingrid-neileth-florez-garay-31636a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ingrid neileth florez garay" height="30" width="40" /></a>
+<a href="https://github.com/IngridFLG" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b3906b828e99395af173bd706c4cccce3284ef0a/icons/github.svg" alt="ingrid neileth florez garay" height="30" width="40" /></a>
 </p>
 
 #
