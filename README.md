@@ -1,21 +1,52 @@
-# Hola! 
+## Hola ❤️, Soy Ingrid Florez!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ingrid-neileth-florez-garay-31636a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ingrid neileth florez garay" height="30" width="40" /></a>
-<a href="https://github.com/IngridFLG" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b3906b828e99395af173bd706c4cccce3284ef0a/icons/github.svg" alt="ingrid neileth florez garay" height="30" width="40" /></a>
+<a href='https://www.linkedin.com/in/ingrid-florez/'><img align='center' alt="linkedin" src="/assets/linkedin.svg" height='18px' style='margin-right: 10px;' /></a>
+
+
+Soy versátil y me adapto fácilmente a distintos roles (Desarrolladora Full Stack, Desarrolladora de Apps o Diseñadora principiante) según lo que necesite el proyecto. Me encanta explorar nuevas tecnologías y usarlas para crear cosas increíbles.
+
+
+### Lenguajes y Tecnologias
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="35px" src="/assets/icons/python-5.svg" style='margin-right: 20px;' ></a>
+
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="35px" src="/assets/icons/django.svg" style='margin-right: 20px;'> </a>
+
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="35px" src="/assets/icons/android-6.svg" style='margin-right: 20px;'> </a>
+
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="35px" src="/assets/icons/java-14.svg" style='margin-right: 20px;' ></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="/assets/icons/spring-3.svg" align="left" alt="git" height='35px' style='margin-right: 20px;'/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="35px"  src="/assets/icons/logo-javascript.svg" style='margin-right: 20px;'> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="35px" src="/assets/icons/typescript.svg" style='margin-right: 20px;'></a>
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px" src="/assets/icons/react-2.svg" style='margin-right: 20px;'></a>
+
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="35px" src="/assets/icons/nodejs-icon.svg" style='margin-right: 20px;'></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="/assets/icons/git-icon.svg" align="left" alt="git" height='35px' style='margin-right: 20px;'/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="/assets/icons/dart.svg" align="left" alt="git" height='35px' style='margin-right: 20px;'/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="/assets/icons/flutter.svg" align="left" alt="git" height='35px' style='margin-right: 20px;'/> </a>
+
+<br>
+</br>
+
+
+## Mis estadisticas 
+
+<p align="center">
+<a href="https://github.com/IngridFLG">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingridflg&theme=tokyonight" />
+  </a>
+  </a>
+  <a href="https://github.com/IngridFLG">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngridFLG&hide_border=true&card_width=338&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/IngridFLG">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IngridFLG&theme=tokyonight" />
+  </a>
 </p>
-
-#
-
-Mi nombre es Ingrid Florez, Estudiante de ingenieria de sistemas y desarrolladora full-stack.
-
-<h3 align="left">Lenguages y Tecnologias:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-# Mis estadisticas
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingridflg&show_icons=true&locale=en&layout=compact" alt="ingridflg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingridflg&show_icons=true&locale=en" alt="ingridflg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingridflg&" alt="ingridflg" /></p>
