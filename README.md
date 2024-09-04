@@ -6,7 +6,7 @@
 Soy versátil y me adapto fácilmente a distintos roles (Desarrolladora Full Stack, Desarrolladora de Apps o Diseñadora principiante) según lo que necesite el proyecto. Me encanta explorar nuevas tecnologías y usarlas para crear cosas increíbles.
 
 
-### Lenguajes y Tecnologias
+### Lenguajes y Tecnologías
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="35px" src="/assets/icons/python-5.svg" style='margin-right: 20px;' ></a>
 
@@ -36,7 +36,7 @@ Soy versátil y me adapto fácilmente a distintos roles (Desarrolladora Full Sta
 </br>
 
 
-## Mis estadisticas 
+## Mis estadísticas 
 
 <p align="center">
 <a href="https://github.com/IngridFLG">
